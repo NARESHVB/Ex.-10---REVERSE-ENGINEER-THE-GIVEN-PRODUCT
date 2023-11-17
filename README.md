@@ -33,10 +33,12 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/NARESHVB/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393642/1bc8df6f-d671-4786-bff2-f74925d9aa27)
 
+![image](https://github.com/NARESHVB/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393642/2f2169e7-704d-4dc9-b2b7-688f6d3801fd)
 
-### Name:
-### Register Number:
+### Name: Naresh.V
+### Register Number: 212222110027
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
