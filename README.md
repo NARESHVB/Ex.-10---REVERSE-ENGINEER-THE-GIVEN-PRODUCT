@@ -33,7 +33,8 @@
 ## Input:
 
 ### Output:
-![image](https://github.com/NARESHVB/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393642/1bc8df6f-d671-4786-bff2-f74925d9aa27)
+![image](https://github.com/NARESHVB/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393642/e196f33e-0f24-4f86-853b-7e7caf7cf988)
+
 
 ![image](https://github.com/NARESHVB/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393642/2f2169e7-704d-4dc9-b2b7-688f6d3801fd)
 
